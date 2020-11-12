@@ -1,0 +1,3 @@
+include ':mupdf'
+include ':app'
+rootProject.name = "MuPDF"

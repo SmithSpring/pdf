@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="cn.leapinfo.mupdf">
+
+    <application>
+        <activity android:name="com.artifex.mupdflib.ui.AttachPreviewActivity"/>
+    </application>
+</manifest>
