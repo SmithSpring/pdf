@@ -69,7 +69,7 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation rootProject.ext.support["support-v4"]
-    implementation 'com.github.qqlixiong:mvvm-framework-android:v1.0.5'
+    implementation 'com.github.SmithSpring:mvvm-framework-android:v1.1.7'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     testImplementation rootProject.ext.dependencies["junit"]
     androidTestImplementation rootProject.ext.dependencies["testRunner"]
